@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagestoragefornotes",
+  "policyUUID": "fb767206",
+  "bucketName": "awsamplifygraphqlimagestoragefornotes",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
